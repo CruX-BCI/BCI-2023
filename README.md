@@ -1,4 +1,1 @@
-# BCI-2023
-
-## Prosthetic Concept Map
-![Prosthetic Concept Map](https://github.com/CruX-BCI/BCI-2023/blob/main/BCI%20Concept%20Map.png)
+https://docs.google.com/document/d/1pMpFs30rJ1rzZlDF6atZTZySyDBcXrkoqu2mDvkP_og/edit?usp=sharing
